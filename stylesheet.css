@@ -20,7 +20,7 @@ a {
 }
 
 .scroll_table {
-    max-width: 800px;
+    max-width: 100%;
     overflow-x: auto;
 }
 
