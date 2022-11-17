@@ -6,7 +6,12 @@ body {
     font-family: 'Zen Antique', serif;
 }
 
+h1 {
+    font-size: 35px;
+}
+
 h2 {
+    font-size: 25px;
     background: linear-gradient(90deg, #420505, #5e0d0d);
 }
 
